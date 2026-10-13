@@ -1,4 +1,4 @@
-# DeepSeek-V3 Mini 实现总结
+# DeepSeek-V3 Mini 实现
 
 ## 项目概述
 
